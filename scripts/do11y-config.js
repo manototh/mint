@@ -1,6 +1,6 @@
 window.Do11yConfig = {
   framework: 'mintlify',
-  destination: 'supabase',
+  destination: 'otlp',
 
   supabaseUrl: 'https://jhyelfdzatnuebggtnwj.supabase.co',
   supabaseKey: 'sb_publishable_HEBOG0yBbyznVe589OarEA_I_4msl3d',

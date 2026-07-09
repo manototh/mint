@@ -6,8 +6,7 @@ window.Do11yConfig = {
   supabaseKey: 'sb_publishable_HEBOG0yBbyznVe589OarEA_I_4msl3d',
   supabaseTable: 'do11y_integration_test',
 
-  otelSdkEndpoint: 'https://otlp-gateway-prod-eu-central-0.grafana.net/otlp',
-  otelSdkHeaders:  { 'Authorization': 'Basic MTcxNTQ1ODpnbGNfZXlKdklqb2lNVGd6Tmpnek1DSXNJbTRpT2lKa2J6RXhlUzEwWlhOMElpd2lheUk2SW5sSFp6QTJWVWxMYzFaalVqWTNNV2t3Y21ZNU5FazVNaUlzSW0waU9uc2ljaUk2SW5CeWIyUXRaWFV0WTJWdWRISmhiQzB3SW4xOQ==' },
+  otelSdkEndpoint: 'https://do11y-otel-proxy.manototh.workers.dev',
   otelSdkServiceName: 'do11y-test',
 
   endpoint: 'https://ingestion.eu.bronto.io',
